@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://giansalazar.github.io/invitacion-boda",
+  "homepage": "https://giansalazar.github.io/viaje_europa",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
